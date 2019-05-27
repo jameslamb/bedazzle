@@ -1,0 +1,22 @@
+# Build stuff
+bazel.sh
+
+# bazel build stuff
+bazel-*
+
+# R build stuff
+temp_r/
+**/*.tar.gz
+**/man/*
+
+# That bazel example I download from the internet
+example/
+
+**/__pycache__/
+
+# Python stuff
+**/build/
+**/bedazzle.egg-info/
+**/dist/
+**/*.pyc
+
